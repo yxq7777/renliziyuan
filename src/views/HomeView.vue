@@ -1,9 +1,7 @@
 <template>
-	<div class="home">
-		<h1>姚新奇最帅</h1>
-		<p>jjjjjj</p>
-<h3>ssjj</h3>
-	</div>
+  <div class="home">
+    <h3>ssss</h3>
+  </div>
 </template>
 
 <script></script>
